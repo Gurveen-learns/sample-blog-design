@@ -1,0 +1,37 @@
+.main-box{
+	border: 13px solid #bdc3c7;
+	margin-right: 20%;
+	margin-left: 20%;
+	padding: 1px 20px;
+}
+
+.blog-post{
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-bottom: 20px;
+}
+
+  .blog-post .date{
+	color: #3498db;
+	letter-spacing: 0.2rem;
+	text-transform: uppercase;
+
+  }
+
+  .h2{
+  	color: #2c3e50;
+  	font-weight: 700;
+    font-size: 2.0rem;
+  }
+
+  .article p:nth-of-type(1){
+  	padding-left: 0.5em;
+  	border-left: 3px solid #bdc3c7;
+  }
+
+hr.hr-line {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+
